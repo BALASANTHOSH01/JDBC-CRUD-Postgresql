@@ -96,4 +96,4 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/BALASANTHOSH01/JDBC-CRUD-Postgresql/blob/main/LICENSE.text))
+[MIT]([https://choosealicense.com/licenses/mit/](https://github.com/BALASANTHOSH01/JDBC-CRUD-Postgresql/blob/main/LICENSE.text)
